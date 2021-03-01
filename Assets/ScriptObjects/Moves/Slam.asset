@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06fb6468efe3bcd429f64484a9db63c0, type: 3}
+  m_Name: Slam
+  m_EditorClassIdentifier: 
+  name: Slam
+  description: 
+  power: 7
+  accuracy: 95
+  bpCost: 0
+  alwaysHits: 0
+  target: 0
+  type: 0
+  damage: 0
+  effects:
+    boosts: []
+  sprite: {fileID: 7174144553844046860, guid: 7f9b484afe4d6ea4aa3d0dda0e8566b8, type: 3}

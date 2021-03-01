@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d9756865096c3a4798fc922ef09542c, type: 3}
+  m_Name: Diddy
+  m_EditorClassIdentifier: 
+  name: Diddy
+  sprite: {fileID: 337392094132674420, guid: 2046aef4da5148748891f13c7ddd7bba, type: 3}
+  faintSprite: {fileID: -7174308999632423378, guid: 2046aef4da5148748891f13c7ddd7bba, type: 3}
+  maxHp: 15
+  strength: 8
+  defense: 7
+  specialDefense: 6
+  specialPower: 5
+  speed: 9
+  defeatXp: 0
+  defeatBananas: 0
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 698e574d2174d5f4083cd8f6de6aa6f4, type: 2}
+    level: 0

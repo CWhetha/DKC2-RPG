@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d579b93a0419a3a4680b762fc8d9a398, type: 3}
+  m_Name: MainParty
+  m_EditorClassIdentifier: 
+  characters:
+  - _base: {fileID: 11400000, guid: f30855d5b03cef44a8297ab4c6ca204a, type: 2}
+    level: 7
+    xp: 500
+    equipedArmor:
+      _base: {fileID: 0}
+      armorSubType: 0
+      equipedTo: 
+    equipedWeapon:
+      _base: {fileID: 0}
+      weaponType: 0
+      equipedTo: 
+  - _base: {fileID: 11400000, guid: 9f2fefe05a71dfa4081d7c65bac5cead, type: 2}
+    level: 7
+    xp: 500
+    equipedArmor:
+      _base: {fileID: 0}
+      armorSubType: 0
+      equipedTo: 
+    equipedWeapon:
+      _base: {fileID: 0}
+      weaponType: 0
+      equipedTo: 
+  items:
+  - _base: {fileID: 11400000, guid: 3341e8a19a872364c8d2a37461c3dd68, type: 2}
+    quantity: 3
+  - _base: {fileID: 11400000, guid: 23a1a26ad818ac94da71a62a1970f7dc, type: 2}
+    quantity: 2
+  bananas: 0
+  maxBp: 10
+  bp: 10
+  armorInventory:
+  - _base: {fileID: 11400000, guid: 609d9f339a5076b4290f4c881b266d12, type: 2}
+    armorSubType: 0
+    equipedTo: 
+  - _base: {fileID: 11400000, guid: 4fa076607a2c1224089e25ab5b546e26, type: 2}
+    armorSubType: 0
+    equipedTo: 
+  weaponInventory:
+  - _base: {fileID: 11400000, guid: 42608247fb76335408d7182cbb1f5851, type: 2}
+    weaponType: 0
+    equipedTo: 
+  - _base: {fileID: 11400000, guid: 86b503aad71a0324a8b0134a7bd5118e, type: 2}
+    weaponType: 0
+    equipedTo: 
+  position: {x: 0, y: 0.84, z: -0.03}

@@ -1,0 +1,2794 @@
+fileFormatVersion: 2
+guid: 7a165ab88f602704d936c1bb8865c4d5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7995676647473808569
+    second: MapCoin_0
+  - first:
+      213: 1911290816220533642
+    second: MapCoin_1
+  - first:
+      213: -3769707080440460035
+    second: MapCoin_2
+  - first:
+      213: 5101990426290500921
+    second: MapCoin_3
+  - first:
+      213: -7270054671342209280
+    second: MapCoin_4
+  - first:
+      213: -8429769842232513562
+    second: MapCoin_5
+  - first:
+      213: 1052552753993873215
+    second: MapCoin_6
+  - first:
+      213: -3626868921583727613
+    second: MapCoin_7
+  - first:
+      213: 4527916331206218147
+    second: MapCoin_8
+  - first:
+      213: -2877857295651222472
+    second: MapCoin_9
+  - first:
+      213: -465405660411157762
+    second: MapCoin_10
+  - first:
+      213: -8204909417571017609
+    second: MapCoin_11
+  - first:
+      213: 8770178766827729462
+    second: MapCoin_12
+  - first:
+      213: -8674367766577155724
+    second: MapCoin_13
+  - first:
+      213: -2110932277258585146
+    second: MapCoin_14
+  - first:
+      213: -5536423977701230046
+    second: MapCoin_15
+  - first:
+      213: -744833104916401823
+    second: MapCoin_16
+  - first:
+      213: -6055182134056908058
+    second: MapCoin_17
+  - first:
+      213: -8438212243224169835
+    second: MapCoin_18
+  - first:
+      213: -4803219720299374613
+    second: MapCoin_19
+  - first:
+      213: -1743803795774272284
+    second: MapCoin_20
+  - first:
+      213: -8724978260884608570
+    second: MapCoin_21
+  - first:
+      213: -4786314843356797887
+    second: MapCoin_22
+  - first:
+      213: -8616706742050542271
+    second: MapCoin_23
+  - first:
+      213: -6190698342947462773
+    second: MapCoin_24
+  - first:
+      213: 3839837535030883858
+    second: MapCoin_25
+  - first:
+      213: -3530127903005144212
+    second: MapCoin_26
+  - first:
+      213: 6356270573071217216
+    second: MapCoin_27
+  - first:
+      213: -965009254996644701
+    second: MapCoin_28
+  - first:
+      213: 4462136006434377395
+    second: MapCoin_29
+  - first:
+      213: -2899649971301948918
+    second: MapCoin_30
+  - first:
+      213: -2476092572893767578
+    second: MapCoin_31
+  - first:
+      213: 2687863051113329771
+    second: MapCoin_32
+  - first:
+      213: 2106040255916199806
+    second: MapCoin_33
+  - first:
+      213: 7500042630665897165
+    second: MapCoin_34
+  - first:
+      213: 2476195380928186802
+    second: MapCoin_35
+  - first:
+      213: 4323643595590504716
+    second: MapCoin_36
+  - first:
+      213: -5830241740329765157
+    second: MapCoin_37
+  - first:
+      213: 7975012197765411377
+    second: MapCoin_38
+  - first:
+      213: -4053286446789755950
+    second: MapCoin_39
+  - first:
+      213: 8994767716278790457
+    second: MapCoin_40
+  - first:
+      213: 4384635331433746245
+    second: MapCoin_41
+  - first:
+      213: -2696446508103968387
+    second: MapCoin_42
+  - first:
+      213: 747272670847304448
+    second: MapCoin_43
+  - first:
+      213: -4505083035014501372
+    second: MapCoin_44
+  - first:
+      213: 3838431251249838949
+    second: MapCoin_45
+  - first:
+      213: 5212852259104916525
+    second: MapCoin_46
+  - first:
+      213: 7920510054135019516
+    second: MapCoin_47
+  - first:
+      213: 1579144451866835447
+    second: MapCoin_48
+  - first:
+      213: -9220969278791425372
+    second: MapCoin_49
+  - first:
+      213: 2946829562478329277
+    second: MapCoin_50
+  - first:
+      213: -4554058321649571811
+    second: MapCoin_51
+  - first:
+      213: 7785441097799261874
+    second: MapCoin_52
+  - first:
+      213: 5501605785555051832
+    second: MapCoin_53
+  - first:
+      213: 8504118365783649031
+    second: MapCoin_54
+  - first:
+      213: -5697242490074700793
+    second: MapCoin_55
+  - first:
+      213: 5851894297516847333
+    second: MapCoin_56
+  - first:
+      213: 8976317575523238519
+    second: MapCoin_57
+  - first:
+      213: 4702516564250290559
+    second: MapCoin_58
+  - first:
+      213: -6879990670623098064
+    second: MapCoin_59
+  - first:
+      213: 7236862811524197615
+    second: MapCoin_60
+  - first:
+      213: -2847303936601058865
+    second: MapCoin_61
+  - first:
+      213: 8560341569376331306
+    second: MapCoin_62
+  - first:
+      213: 7898154287473017391
+    second: MapCoin_63
+  - first:
+      213: 859098361042550894
+    second: MapCoin_64
+  - first:
+      213: 6098273647561455995
+    second: MapCoin_65
+  - first:
+      213: -8111331494057515403
+    second: MapCoin_66
+  - first:
+      213: -5763299607503650986
+    second: MapCoin_67
+  - first:
+      213: -3784607640320266984
+    second: MapCoin_68
+  - first:
+      213: -8943989278689230971
+    second: MapCoin_69
+  - first:
+      213: 5174542967355270274
+    second: MapCoin_70
+  - first:
+      213: -4262842742102845759
+    second: MapCoin_71
+  - first:
+      213: 7032294055922683607
+    second: MapCoin_72
+  - first:
+      213: 3505296754834817362
+    second: MapCoin_73
+  - first:
+      213: -4448420020896792500
+    second: MapCoin_74
+  - first:
+      213: 8917019788057361158
+    second: MapCoin_75
+  - first:
+      213: -5973206041705678774
+    second: MapCoin_76
+  - first:
+      213: -1372626335909395787
+    second: MapCoin_77
+  - first:
+      213: -307696632791648886
+    second: MapCoin_78
+  - first:
+      213: 2026546974648628311
+    second: MapCoin_79
+  - first:
+      213: -3081021056319544489
+    second: MapCoin_80
+  - first:
+      213: -4750141545087110618
+    second: MapCoin_81
+  - first:
+      213: -2737299684702567915
+    second: MapCoin_82
+  - first:
+      213: 4439521222494417675
+    second: MapCoin_83
+  - first:
+      213: 1614510819119825612
+    second: MapCoin_84
+  - first:
+      213: -5605411955140229701
+    second: MapCoin_85
+  - first:
+      213: -1626760127701688621
+    second: MapCoin_86
+  - first:
+      213: 7369927941364561062
+    second: MapCoin_87
+  - first:
+      213: -2074641292180712199
+    second: MapCoin_88
+  - first:
+      213: -6812078532458572537
+    second: MapCoin_89
+  - first:
+      213: 2163342926979536934
+    second: MapCoin_90
+  - first:
+      213: 5936091227364042863
+    second: MapCoin_91
+  - first:
+      213: 3394958271983145482
+    second: MapCoin_92
+  - first:
+      213: 1069208136923597029
+    second: MapCoin_93
+  - first:
+      213: -6912149774984013159
+    second: MapCoin_94
+  - first:
+      213: -6059903188477310286
+    second: MapCoin_95
+  - first:
+      213: -2844603188034745602
+    second: MapCoin_96
+  - first:
+      213: 733568006812833336
+    second: MapCoin_97
+  - first:
+      213: -6832954740477311173
+    second: MapCoin_98
+  - first:
+      213: -622864888511357529
+    second: MapCoin_99
+  - first:
+      213: 1503525251329257894
+    second: MapCoin_100
+  - first:
+      213: 706424888147671378
+    second: MapCoin_101
+  - first:
+      213: -5531928768087089109
+    second: MapCoin_102
+  - first:
+      213: -4754763350156651223
+    second: MapCoin_103
+  - first:
+      213: 6898457496223943852
+    second: MapCoin_104
+  - first:
+      213: 8031297594551787781
+    second: MapCoin_105
+  - first:
+      213: -1515238486284554637
+    second: MapCoin_106
+  - first:
+      213: -3421036491209566001
+    second: MapCoin_107
+  - first:
+      213: -2967730457435347057
+    second: MapCoin_108
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MapCoin_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 423
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74bff68b376a90190800000000000000
+      internalID: -7995676647473808569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 423
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a839a43fed4468a10800000000000000
+      internalID: 1911290816220533642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_2
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 423
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc4213126f4fabc0800000000000000
+      internalID: -3769707080440460035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_3
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 423
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9353d7ed249edc640800000000000000
+      internalID: 5101990426290500921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_4
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 418
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0077af87bc39b1b90800000000000000
+      internalID: -7270054671342209280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_5
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 425
+        width: 5
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb2e67cdf0730b80800000000000000
+      internalID: -8429769842232513562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_6
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 425
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37f921372b6b9e00800000000000000
+      internalID: 1052552753993873215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_7
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 425
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c091a8ee5caadc0800000000000000
+      internalID: -3626868921583727613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_8
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 381
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a19c3ec9e366de30800000000000000
+      internalID: 4527916331206218147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_9
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 381
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c4172890ccf08d0800000000000000
+      internalID: -2877857295651222472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_10
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 381
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2acb6840c8a89f0800000000000000
+      internalID: -465405660411157762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_11
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 381
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c1c6f2b5e422e80800000000000000
+      internalID: -8204909417571017609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_12
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 387
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632b07d3f1fe5b970800000000000000
+      internalID: 8770178766827729462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_13
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 387
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471f11e99747e9780800000000000000
+      internalID: -8674367766577155724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_14
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 382
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb781d274674b2e0800000000000000
+      internalID: -2110932277258585146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_15
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 387
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ab92bb9bbaa23b0800000000000000
+      internalID: -5536423977701230046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_16
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 404
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161b184cc32d9a5f0800000000000000
+      internalID: -744833104916401823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_17
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 376
+        width: 39
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea0f394eeba7fba0800000000000000
+      internalID: -6055182134056908058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_18
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 379
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592754f1ca275ea80800000000000000
+      internalID: -8438212243224169835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_19
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 379
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be79769ec19875db0800000000000000
+      internalID: -4803219720299374613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_20
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 379
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec85e2dfa3ccc7e0800000000000000
+      internalID: -1743803795774272284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_21
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 348
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9a7f6af76aae680800000000000000
+      internalID: -8724978260884608570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_22
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 348
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 144e98a4208939db0800000000000000
+      internalID: -4786314843356797887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_23
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 343
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d2d521fde4b6880800000000000000
+      internalID: -8616706742050542271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_24
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 348
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b81640528a8361aa0800000000000000
+      internalID: -6190698342947462773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_25
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 348
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2163abec4e7d94530800000000000000
+      internalID: 3839837535030883858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_26
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 348
+        width: 6
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b0fa92067720fc0800000000000000
+      internalID: -3530127903005144212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_27
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 348
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042bd24c862063850800000000000000
+      internalID: 6356270573071217216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_28
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 348
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ace5f602399b92f0800000000000000
+      internalID: -965009254996644701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_29
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 354
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be40037e01bced30800000000000000
+      internalID: 4462136006434377395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_30
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 354
+        width: 36
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02639fc6bf52c7d0800000000000000
+      internalID: -2899649971301948918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_31
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 354
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6681fa18ce623add0800000000000000
+      internalID: -2476092572893767578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_32
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 354
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64f18e34353d4520800000000000000
+      internalID: 2687863051113329771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_33
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 354
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7fce8854782a3d10800000000000000
+      internalID: 2106040255916199806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_34
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 310
+        width: 86
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc480212901851860800000000000000
+      internalID: 7500042630665897165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_35
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 310
+        width: 86
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b900ba54963d5220800000000000000
+      internalID: 2476195380928186802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_36
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 310
+        width: 86
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01909a41faa00c30800000000000000
+      internalID: 4323643595590504716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_37
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 310
+        width: 86
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd63df0f602d61fa0800000000000000
+      internalID: -5830241740329765157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_38
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 330
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132f637275fecae60800000000000000
+      internalID: 7975012197765411377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_39
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 330
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dbf03ea375dfb7c0800000000000000
+      internalID: -4053286446789755950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_40
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 330
+        width: 5
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 939e2f5e495d3dc70800000000000000
+      internalID: 8994767716278790457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_41
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 342
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f4cb76a9a59dc30800000000000000
+      internalID: 4384635331433746245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_42
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 330
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79de90ff2c449ad0800000000000000
+      internalID: -2696446508103968387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_43
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 330
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0030630f888de5a00800000000000000
+      internalID: 747272670847304448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_44
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 309
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c625e39daba71c0800000000000000
+      internalID: -4505083035014501372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_45
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 309
+        width: 6
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b3189d2e8d44530800000000000000
+      internalID: 3838431251249838949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_46
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 309
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d248a82c285c75840800000000000000
+      internalID: 5212852259104916525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_47
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 309
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7b0a8fded4bed60800000000000000
+      internalID: 7920510054135019516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_48
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 326
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f93d86238f3ae510800000000000000
+      internalID: 1579144451866835447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_49
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 330
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2e8d4bb49880080800000000000000
+      internalID: -9220969278791425372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_50
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 307
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbdf325cfdd35e820800000000000000
+      internalID: 2946829562478329277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_51
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 307
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d186aabb51cbcc0c0800000000000000
+      internalID: -4554058321649571811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_52
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 307
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be5d0eed617b0c60800000000000000
+      internalID: 7785441097799261874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_53
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 319
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8352e3e2051a95c40800000000000000
+      internalID: 5501605785555051832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_54
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 307
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70be860d892b40670800000000000000
+      internalID: 8504118365783649031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_55
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 307
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704e5dbf3245fe0b0800000000000000
+      internalID: -5697242490074700793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_56
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 272
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e030a2ebda163150800000000000000
+      internalID: 5851894297516847333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_57
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 272
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7728820c649429c70800000000000000
+      internalID: 8976317575523238519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_58
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 272
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79678276e1b24140800000000000000
+      internalID: 4702516564250290559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_59
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 286
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b3283dfec5580a0800000000000000
+      internalID: -6879990670623098064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_60
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 286
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec622172608e6460800000000000000
+      internalID: 7236862811524197615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_61
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 286
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc19253c7285c78d0800000000000000
+      internalID: -2847303936601058865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_62
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 239
+        width: 95
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26afae7d417cc670800000000000000
+      internalID: 8560341569376331306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_63
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 239
+        width: 95
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22ce0e6a71eb9d60800000000000000
+      internalID: 7898154287473017391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_64
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 239
+        width: 95
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e60cf0d58612ceb00800000000000000
+      internalID: 859098361042550894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_65
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 239
+        width: 95
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79b60a829b61a450800000000000000
+      internalID: 6098273647561455995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_66
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 264
+        width: 37
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57663495bf2ce6f80800000000000000
+      internalID: -8111331494057515403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_67
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 264
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65fb890da85a400b0800000000000000
+      internalID: -5763299607503650986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_68
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 244
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d2b70276f5a7bc0800000000000000
+      internalID: -3784607640320266984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_69
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 244
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f73d8632190e380800000000000000
+      internalID: -8943989278689230971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_70
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 244
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284e434b96bafc740800000000000000
+      internalID: 5174542967355270274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_71
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 244
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c69b9f8c1757d4c0800000000000000
+      internalID: -4262842742102845759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_72
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 244
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7decc576f2ab79160800000000000000
+      internalID: 7032294055922683607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_73
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 244
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2514240a3d055a030800000000000000
+      internalID: 3505296754834817362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_74
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 244
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4006ba4f890442c0800000000000000
+      internalID: -4448420020896792500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_75
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 244
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60bb94ab04e9fbb70800000000000000
+      internalID: 8917019788057361158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_76
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 244
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a487ae1a0c8ea1da0800000000000000
+      internalID: -5973206041705678774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_77
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 244
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b246c6be9373fce0800000000000000
+      internalID: -1372626335909395787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_78
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 241
+        width: 55
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85bedfea87dabbf0800000000000000
+      internalID: -307696632791648886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_79
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 9
+        width: 256
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754f2908cbdbf1c10800000000000000
+      internalID: 2026546974648628311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_80
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 171
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75323985ca30e35d0800000000000000
+      internalID: -3081021056319544489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_81
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 165
+        width: 54
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622f14c9e6b141eb0800000000000000
+      internalID: -4750141545087110618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_82
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 171
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512c3898078230ad0800000000000000
+      internalID: -2737299684702567915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_83
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 165
+        width: 54
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03769fb7095c9d30800000000000000
+      internalID: 4439521222494417675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_84
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 167
+        width: 78
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc289a33905e76610800000000000000
+      internalID: 1614510819119825612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_85
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 167
+        width: 78
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5832a86839532b0800000000000000
+      internalID: -5605411955140229701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_86
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 121
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de529568469c69e0800000000000000
+      internalID: -1626760127701688621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_87
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 121
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4b2454a6e374660800000000000000
+      internalID: 7369927941364561062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_88
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 136
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f416379cb46533e0800000000000000
+      internalID: -2074641292180712199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_89
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 136
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7051ebaaaa2a671a0800000000000000
+      internalID: -6812078532458572537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_90
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 136
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62818f12eecb50e10800000000000000
+      internalID: 2163342926979536934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_91
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 136
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68a851458b316250800000000000000
+      internalID: 5936091227364042863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_92
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 136
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0254d4af805d1f20800000000000000
+      internalID: 3394958271983145482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_93
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 136
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8c948b22796de00800000000000000
+      internalID: 1069208136923597029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_94
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 136
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a18cbd66c1310a0800000000000000
+      internalID: -6912149774984013159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_95
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 112
+        width: 4
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba8d852826e6eba0800000000000000
+      internalID: -6059903188477310286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_96
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 112
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eface3ac870f588d0800000000000000
+      internalID: -2844603188034745602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_97
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 112
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8369ba037382e2a00800000000000000
+      internalID: 733568006812833336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_98
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 112
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b374787bdd77c21a0800000000000000
+      internalID: -6832954740477311173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_99
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad97391fa32b57f0800000000000000
+      internalID: -622864888511357529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_100
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 112
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a17f4400489dd410800000000000000
+      internalID: 1503525251329257894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_101
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 112
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 259798661b9bdc900800000000000000
+      internalID: 706424888147671378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_102
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 112
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20a7674814aa33b0800000000000000
+      internalID: -5531928768087089109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_103
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 76
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925ddd2ccefa30eb0800000000000000
+      internalID: -4754763350156651223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_104
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 78
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac0f801b8e3cbf50800000000000000
+      internalID: 6898457496223943852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_105
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 76
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50165b05c96e47f60800000000000000
+      internalID: 8031297594551787781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_106
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 78
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e2203ff9ac8fae0800000000000000
+      internalID: -1515238486284554637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_107
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 34
+        width: 55
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc81ec9cf690680d0800000000000000
+      internalID: -3421036491209566001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCoin_108
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 34
+        width: 55
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8765776fd080d6d0800000000000000
+      internalID: -2967730457435347057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 532b8a44cb53f344694d0ae8e54746a6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

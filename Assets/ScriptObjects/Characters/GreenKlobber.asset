@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d9756865096c3a4798fc922ef09542c, type: 3}
+  m_Name: GreenKlobber
+  m_EditorClassIdentifier: 
+  name: Green Klobber
+  sprite: {fileID: 961897209639294233, guid: f510da9e2c1d92446b82dd6931c6c3a9, type: 3}
+  faintSprite: {fileID: 0}
+  maxHp: 5
+  strength: 4
+  defense: 5
+  specialDefense: 6
+  specialPower: 7
+  speed: 8
+  defeatXp: 5
+  defeatBananas: 3
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 950c8799f709a6e43845077837dd1482, type: 2}
+    level: 0
